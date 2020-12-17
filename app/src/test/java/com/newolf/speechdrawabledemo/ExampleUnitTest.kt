@@ -1,4 +1,4 @@
-package com.newolf.speechdrawable
+package com.newolf.speechdrawabledemo
 
 import org.junit.Test
 
